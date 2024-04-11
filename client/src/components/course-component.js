@@ -42,7 +42,7 @@ const CourseComponent = ({ currentUser, setCurrentUser }) => {
             className="btn btn-primary btn-lg"
             onClick={handleTakeToLogin}
           >
-            回到登入頁面
+            回到登入頁面喔
           </button>
         </div>
       )}
